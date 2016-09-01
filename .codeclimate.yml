@@ -9,7 +9,7 @@ engines:
   phpmd:
     enabled: true
     config:
-      rulesets: .phpmd.xml
+      rulesets: ".phpmd.xml"
   phpcodesniffer:
     enabled: true
     config:
